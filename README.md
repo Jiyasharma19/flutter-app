@@ -1,11 +1,17 @@
-# flutter-app
-## Introduction
+# project
 
-This Flutter app is a quiz application that allows users to test their knowledge on various topics. It is designed to be user-friendly and provides an interactive quiz-taking experience.
+A new Flutter project.
 
+## Getting Started
 
-## Features
+This project is a starting point for a Flutter application.
 
-- Multiple-choice questions
-- Score tracking
-- User-friendly interface
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+# flutter-project
